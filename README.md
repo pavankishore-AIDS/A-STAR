@@ -1,4 +1,3 @@
-![1](https://github.com/user-attachments/assets/56f5e13b-1ed0-4622-885c-3fca503d7a9b)<h1>Ex 4 : Implement A* search algorithm for a Graph</h1> 
 <h3>Name: Pavan Kishore</h3>
 <h3>Register Number:  212221230076       </h3>
 <H3>Aim:</H3>
